@@ -1,0 +1,111 @@
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\obj\Debug\MvcApplication2-4.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\obj\Debug\MvcApplication2-4.pdb
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\MvcApplication2-4.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\MvcApplication2-4.pdb
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\EntityFramework.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\Newtonsoft.Json.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Json.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.Formatting.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.WebRequest.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Helpers.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Http.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Http.WebHost.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Mvc.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Optimization.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Providers.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Razor.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\EntityFramework.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\Newtonsoft.Json.pdb
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\Newtonsoft.Json.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Json.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.Formatting.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Net.Http.WebRequest.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Helpers.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Http.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Http.WebHost.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Mvc.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.Razor.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brij\Downloads\filipw-html5-push-asp.net-web-api-d691001\filipw-html5-push-asp.net-web-api-d691001\aspnetwebapi-html5push\bin\System.Web.WebPages.Razor.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\MvcApplication2-4.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\MvcApplication2-4.pdb
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\EntityFramework.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\Microsoft.Web.Infrastructure.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\Newtonsoft.Json.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Json.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.Formatting.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.WebRequest.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Helpers.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Http.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Http.WebHost.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Mvc.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Optimization.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Providers.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Razor.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.Deployment.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.Razor.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\EntityFramework.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\Newtonsoft.Json.pdb
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\Newtonsoft.Json.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Json.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.Formatting.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Net.Http.WebRequest.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Helpers.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Http.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Http.WebHost.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Mvc.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.Razor.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.Deployment.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\bin\System.Web.WebPages.Razor.xml
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\obj\Debug\ResolveAssemblyReference.cache
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\obj\Debug\MvcApplication2-4.dll
+E:\Test Projects\Web\TechBrij HTML5Push Chart\flotchart-html5push\obj\Debug\MvcApplication2-4.pdb
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\MvcApplication2-4.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\MvcApplication2-4.pdb
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\EntityFramework.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\Microsoft.Web.Infrastructure.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\Newtonsoft.Json.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Json.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.Formatting.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.WebRequest.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Helpers.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Http.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Http.WebHost.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Mvc.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Optimization.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Providers.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Razor.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.Deployment.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.Razor.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\EntityFramework.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\Newtonsoft.Json.pdb
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\Newtonsoft.Json.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Json.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.Formatting.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Net.Http.WebRequest.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Helpers.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Http.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Http.WebHost.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Mvc.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.Razor.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.Deployment.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\bin\System.Web.WebPages.Razor.xml
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\obj\Debug\ResolveAssemblyReference.cache
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\obj\Debug\MvcApplication2-4.dll
+E:\Github\HTML5-Push-Flot-Chart-ASPNET-WEBAPI\flotchart-html5push\obj\Debug\MvcApplication2-4.pdb

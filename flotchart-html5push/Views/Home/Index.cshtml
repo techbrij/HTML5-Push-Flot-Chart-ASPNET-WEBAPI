@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>ASP.NET Web API</title>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 8]><script language="javascript" type="text/javascript" src="~/Scripts/excanvas.min.js"></script><![endif]-->
+    <script src="@Url.Content("~/Scripts/modernizr-2.0.6-development-only.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.flot.min.js")" type="text/javascript"></script>
+    <script type="text/javascript">
+        //flot chart start here
+        $(function () {
+
+            if (!!window.EventSource) {
+                var source = new EventSource('http://localhost:49999/api/chart/');
+                source.addEventListener('message', function (e) {
+                    console.log(e.data);
+                    update(parseInt(e.data, 10));
+                }, false);
+
+                source.addEventListener('open', function (e) {
+                    console.log("open!");
+                }, false);
+
+                source.addEventListener('error', function (e) {
+                    if (e.readyState == EventSource.CLOSED) {
+                        console.log("error!");
+                    }
+                }, false);
+
+            } else {
+                // not supported!               
+            }           
+            var ypt = [], totalPoints = 25;
+
+            function initData() {
+                for (var i = 0; i < totalPoints; ++i)
+                    ypt.push(0);
+                return getPoints();
+
+            }
+            function getData(data) {
+                if (ypt.length > 0)
+                    ypt = ypt.slice(1);
+                ypt.push(data);
+                return getPoints();
+            }
+            function getPoints() {
+                var ret = [];
+                for (var i = 0; i < ypt.length; ++i)
+                    ret.push([i, ypt[i]]);
+                return ret;
+            }
+
+            // setup plot
+            var options = {
+                series: { shadowSize: 0, bars: {
+                    show: true,
+                    barWidth: 0.75,
+                    fill: 1
+                }
+                }, // drawing is faster without shadows
+                yaxis: { min: 0, max: 100,
+                    tickFormatter: function (val, axis) {
+                        return '$' + val;
+                    }
+                },
+                xaxis: { show: false }
+            };
+
+            var plot = $.plot($("#placeholder"), [initData()], options);
+            function update(data) {
+                $('#priceHolder').text('$' + data);
+                plot.setData([getData(data)]);
+                plot.draw();
+            }
+        });
+    </script>
+</head>
+<body>
+    <div style="text-align: center">
+        <h1>
+            Trade Price: <span id="priceHolder"></span>
+        </h1>
+        <div id="placeholder" style="width:500px; height: 300px; margin: 0 auto">
+        </div>
+        <div style="font-size:1.2em;color:Blue;font-style:italic;padding-bottom:100px"> http://techbrij.com
+        
+        </div>
+    </div>
+</body>
+</html>
